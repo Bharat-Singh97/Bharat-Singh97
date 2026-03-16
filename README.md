@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi I am a Java Backend Developer
+Skils:
+Java
+Spring Boot
+REST APIs
+MySQL
+Git
+DSA
+HTML
+CSS
+JS
+Firestore
 
-<!--
-**Bharat-Singh97/Bharat-Singh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects:
+GM Real Time Task Management Dashboard
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Solving LeetCode problems daily.
